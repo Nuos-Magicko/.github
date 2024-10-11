@@ -23,7 +23,7 @@ At NUOS Magicko, we're not just another AI software house – we're your partner
 - **Proven Track Record**: With over 500 successful projects, we've earned the trust of clients worldwide.
 - **Expert Team**: Our diverse team of developers, designers, and project managers ensures comprehensive solutions.
 
-## 🚀 Our Latest Projects
+<!-- ## 🚀 Our Latest Projects
 
 <table>
   <tr>
@@ -49,7 +49,7 @@ At NUOS Magicko, we're not just another AI software house – we're your partner
       </a>
     </td>
   </tr>
-</table>
+</table> -->
 
 <!-- ## 📈 Our GitHub Stats
 
